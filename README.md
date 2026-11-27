@@ -1,7 +1,8 @@
 # 🦃 Gobble Dash — The Great Turkey Escape
 
 [![make.fun](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01)
-[![Competition](https://make.fun/badge-competition/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/aldi235/turkey-run-game-01/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/aldi235/turkey-run-game-01/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
 
 A 2D side-scrolling turkey escape game, built for make.fun's
 **"Make the best turkey escape game"** bounty ($250 in USDC).
